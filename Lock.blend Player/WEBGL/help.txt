@@ -1,0 +1,7 @@
+WASD = Move on YX  Axis
+FR = Zoom
+m = Mute 
+IJKL = Rotate
+
+No Mouse
+Attension! This Player play not the Animation! You can see the Animation under https://vimeo.com/307834762
